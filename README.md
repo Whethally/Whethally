@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whethally</h1>
 <h3 align="center">Full Stack Web Developer from Russia</h3>
 
-- 🔭 I’m currently working on [Schedule Discord Bot](https://github.com/Whethally/schedule-discord-bot)
+- 🔭 I’m currently working on Twitch-Chat-Bot
 
 - 🌱 I’m currently learning **Laravel, NodeJS**
 
